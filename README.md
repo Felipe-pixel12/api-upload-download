@@ -67,7 +67,7 @@ Substitua `teste.txt` pelo nome do arquivo enviado.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/api-upload-download.git
+git clone https://github.com/Felipe-pixel12/api-upload-download.git
 ```
 
 2. Entre na pasta:
